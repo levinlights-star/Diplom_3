@@ -1,0 +1,3 @@
+[32mINFO    [0m conftest:conftest.py:46 Сгенерированный данные: {'email': 'ttvdwkjvvf@yandex.ru', 'password': 'uupasywqmf', 'name': 'zlpmboanae'}
+[32mINFO    [0m pages.main_page:main_page.py:113 Номер моего заказа: 379861
+[32mINFO    [0m test_feed_page:test_feed_page.py:87 Заказы в разделе 'В работе': ['0379861']

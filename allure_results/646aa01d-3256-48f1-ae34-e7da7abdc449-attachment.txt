@@ -1,0 +1,4 @@
+[32mINFO    [0m conftest:conftest.py:46 Сгенерированный данные: {'email': 'eulmsnkust@mail.ru', 'password': 'evatfcyayq', 'name': 'sppndyqlfy'}
+[32mINFO    [0m test_feed_page:test_feed_page.py:22 Выполнено за все время до моего заказа: 379857
+[32mINFO    [0m pages.main_page:main_page.py:113 Номер моего заказа: 379858
+[32mINFO    [0m test_feed_page:test_feed_page.py:34 Выполнено за все время после моего заказа: 379858

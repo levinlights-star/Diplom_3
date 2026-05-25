@@ -1,0 +1,2 @@
+[32mINFO    [0m test_main_page:test_main_page.py:71 Количество ингредиентов до: 0
+[32mINFO    [0m test_main_page:test_main_page.py:78 Количество ингредиентов после: 2
