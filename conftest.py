@@ -22,14 +22,6 @@ def driver(request):
     driver.quit()
 
 
-# # Для открытия и закрытия тестов  в Firefox
-# @pytest.fixture(scope="function")
-# def driver(request):
-
-#     driver = webdriver.Firefox()
-#     yield driver
-#     driver.quit()
-
 """Фикстура: Открыть страницу {BASE_URL}"""
 @pytest.fixture
 def main_page(driver):
