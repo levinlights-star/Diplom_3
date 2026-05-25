@@ -1,0 +1,4 @@
+[32mINFO    [0m conftest:conftest.py:46 Сгенерированный данные: {'email': 'ibmcoesmhs@mail.ru', 'password': 'dpfxqvpzxs', 'name': 'kqqfktrcbe'}
+[32mINFO    [0m test_feed_page:test_feed_page.py:54 Выполнено за сегодня до моего заказа: 164
+[32mINFO    [0m pages.main_page:main_page.py:113 Номер моего заказа: 379859
+[32mINFO    [0m test_feed_page:test_feed_page.py:64 Выполнено за сегодня после моего заказа: 165
